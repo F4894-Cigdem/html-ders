@@ -1,0 +1,149 @@
+IMAGE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGE BURADA</title>
+</head>
+<body>
+    <!-- Resim yükleme -->
+    <img src="./assests/image/ronaldovmessi2.jpeg" 
+    alt="RESİM BURADA"
+    width="350"
+    height="150"
+    />
+   
+
+    <!-- iframe yapıyorum -->
+  <iframe src="https://clarusway.com" title="youtube"> </body>iframe>
+</body>
+</html>
+
+LINK
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LINK</title>
+</head>
+<body>
+    <!-- başka bir sayfaya link verme -->
+     <a href="list.html">LİST SAYFASINA GİT</a>
+      <br><br>
+      <!-- Diş websitesine yönlendirma -->
+      <a href="https://google.com.tr"target="_blank">Google a git</a>
+
+     <!-- sayfa içine link verme -->
+     <a href="#kırmızı">Sayfa içinde bir yere git</a>
+     <br><br><br>
+     <!-- Bir sayfadan başka bir sayfanın bölümüne link verme -->
+     <a href="link.html#şehir">BAŞKA SAYFAYA GİT</a>
+
+           <br /><br /><br /><br /><br /><br /><br 
+           /><br /><br /><br /><br /><br /><br /><br
+            /><br /><br /><br /><br /><br /><br /><br
+             /><br /><br /><br /><br /><br /><br /><br
+              /><br /><br /><br /><br /><br /><br /><br
+               /><br /><br /><br /><br /><br />
+
+
+      <p id="kırmızı">BURASI KIRMIZI</p>
+</body>
+</html>
+
+LIST
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIST BURADA</title>
+</head>
+<body>
+    <a href="link.html">LİNK SAYFASINA GİT</a>
+    <!-- Sıralı liste -->
+    <ol>
+        <li>ELMA</li>
+        <li>ARMUT</li>
+        <li>KAYIAI</li>
+    </ol>
+    <!-- Maddeli liste -->
+    <ul>
+    <li>ALİ</li>
+    <li>VELİ</li>
+    <li>DELİ</li>
+</ul>
+                  <hr/>
+<!-- İç içe listeler -->
+<ol>
+<li>BİRİNCİ</li>
+<ul>
+    <li>HAVA</li>
+    <li>SU</li>
+
+</ul> 
+<li>İKİNCİ</li>
+<ul>
+    <li>ATEŞ</li>
+    <li>TAHTA</li>
+</ul>
+
+</ol>
+ <hr>
+ <!-- listeleme şeklini değiştirme    -->
+ <ol type="i">
+    <li>İSTANBUL</li>
+    <li>ANKARA</li>
+    <li>İZMİR</li>
+    <li>BURSA</li>
+    <li>ADANA</li>
+ </ol>
+  <hr>
+   <ul type="square" id="şehir">
+    <li>ERZİNCAN</li>
+    <li>TRABZON</li>
+    <li>MUĞLA</li>
+    <li>ESKİŞEHİR</li>
+    <li>MARDİN</li>
+   </ul>
+</body>
+</html>
+
+TABLE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLO BURADA</title>
+</head>
+<body>
+    <!-- Tablo oluşturuyorum -->
+    <table>
+        <tr>
+            <th>NUMARA</th>
+            <th>AD</th>
+            <th>SOYAD</th>
+        </tr> <tr>
+        <td>F4973</td>
+        <td>NİHAN</td>
+        <td>AYDIN</td>
+    </tr>
+    <tr>
+        <td>F4939</td>
+        <td>NUR</td>
+        <td>YILMAZ</td>
+    </tr>
+    </table>
+</body>
+</html>
