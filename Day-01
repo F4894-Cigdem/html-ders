@@ -1,0 +1,30 @@
+ <!-- Bunu browser in dosyayı anlaması için koydum. -->
+ <!DOCTYPE html>
+<!-- Dosyamı HTML ile açtım,dil olarak ingilizce seçtim -->
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>HTML SEVİYORUM</title> 
+ </head>
+  <body>
+        <h1>KAYIP GÜL  <sup>*</sup></h1>
+        <h3>Yazar Hakkında</h3>
+        
+        <p> <strong>Lorem ipsum,</strong> dolor sit amet consectetur adipisicing elit.  <u>Eos commodi </u>  quasi sapiente ex,  <blockquote>
+            
+            odit repudiandae ducimus
+        
+        </blockquote>  qui!  <em>Minus</em> dicta similique eaque voluptates, nisi consequuntur voluptatem placeat, ratione adipisci voluptatum accusamus!</p>
+         <hr />
+         <h3>Kitapları</h3> 
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, <del>nisi</del> ipsum necessitatibus, impedit mollitia distinctio exercitationem nesciunt facilis, praesentium dolorem minima accusantium corrupti veniam quasi iure rerum laborum inventore officiis?</p>
+           <h3>Şiir Örneği</h3>
+            <pre>Lorem ipsum dolor sit amet
+                 consectetur 
+                 adipisicing elit. Dignissimos nemo
+                 temporibus quis, tempora minima facilis
+                 optio nihil voluptates maxime quo dolor illo magnam eligendi architecto saepe. Perferendis voluptatibus consectetur placeat.</pre>
+  </body>
+ </html>
